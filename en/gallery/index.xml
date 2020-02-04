@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Hugo Zzo Theme</title>
+    <link>https://goldenliang.github.io/en/gallery/</link>
+    <description>Recent content in Galleries on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 02 Feb 2020 18:23:14 +0800</lastBuildDate>
+    
+        <atom:link href="https://goldenliang.github.io/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Anygalleryname</title>
+        <link>https://goldenliang.github.io/en/gallery/anygalleryname/</link>
+        <pubDate>Sun, 02 Feb 2020 18:23:14 +0800</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>https://goldenliang.github.io/en/gallery/anygalleryname/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

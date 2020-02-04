@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Hugo Zzo Theme</title>
+    <link>https://goldenliang.github.io/en/talks/</link>
+    <description>Recent content in Talks on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 11:14:14 +0900</lastBuildDate>
+    
+        <atom:link href="https://goldenliang.github.io/en/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>My Awesome links</title>
+        <link>https://goldenliang.github.io/en/talks/mylinks/</link>
+        <pubDate>Tue, 31 Dec 2019 00:04:50 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>https://goldenliang.github.io/en/talks/mylinks/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>
