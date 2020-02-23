@@ -24,7 +24,15 @@
         <guid>https://goldenliang.github.io/en/gallery/anygalleryname/</guid>
         <description></description>
       </item>
-      
+
+      <item>
+        <title>第一篇博客</title>
+        <link>https://goldenliang.github.io/en/gallery/第一篇博客/</link>
+        <pubDate>Sun, 23 Sun 2020 18:31:14 +0800</pubDate>
+        <author>goldenliang (goldenliang)</author>
+        <guid>https://goldenliang.github.io/en/gallery/第一篇博客/</guid>
+        <description></description>
+      </item>
     
   </channel>
 </rss>
